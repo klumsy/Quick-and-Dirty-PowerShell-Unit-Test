@@ -1,12 +1,12 @@
 quick and dirty PowerShell Unit Testing framework.
 ---------------------------------------------------
- Copyright (c) Karl Prosser, 2012
+ Copyright (c) Karl Prosser, 2013
  Free for use under MS-PL, MS-RL, GPL 2, or BSD license. Your choice. 
  
- Version 0.5
+ Version 0.6
 
 quick and dirty PowerShell Unit Testing framework.
-if you want something more like at PSAINT or PESTER or PSUNIT
+if you want something more than this, then look at PSAINT or PESTER or PSUNIT
 + Goals
     + Small
     + No dependencies (can be as module or just copy and pasted, and tag along with a remoting scriptblock
